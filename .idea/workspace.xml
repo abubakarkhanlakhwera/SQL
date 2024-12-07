@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8224deb-c22e-42be-8b2b-e79948894881" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SQL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage_1/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage_1/db_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage_1/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage_1/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage_1/db_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage_1/db_helper.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/stage_1/db_helper.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -125,7 +124,7 @@
       <workItem from="1733417146810" duration="380000" />
       <workItem from="1733500507278" duration="716000" />
       <workItem from="1733503802481" duration="598000" />
-      <workItem from="1733582944560" duration="3039000" />
+      <workItem from="1733582944560" duration="5778000" />
     </task>
     <servers />
   </component>
@@ -143,8 +142,12 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2nd" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SQL$db_helper.coverage" NAME="db_helper Coverage Results" MODIFIED="1733585702968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stage_1" />
-    <SUITE FILE_PATH="coverage/SQL$app.coverage" NAME="app Coverage Results" MODIFIED="1733585991764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stage_1" />
+    <SUITE FILE_PATH="coverage/SQL$app.coverage" NAME="app Coverage Results" MODIFIED="1733588625877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stage_1" />
   </component>
 </project>
