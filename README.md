@@ -1,36 +1,28 @@
-# Sql
+# SQL Practice
 
 SQL and database practice workspace.
 
-## Overview
+## Purpose
 
-This is a Programming practice repository. It is part of my broader GitHub portfolio showing hands-on work across AI, web development, automation, and software engineering fundamentals.
+Database literacy is essential for backend work. This repo is for practicing SQL concepts, query thinking, and database interaction from a programming workflow.
 
-## What It Demonstrates
+## What This Shows
 
-- Practical implementation and experimentation rather than only theory.
-- Familiarity with the repository's core stack and development workflow.
-- Iterative learning through small projects, exercises, or prototypes.
+- SQL/database fundamentals
+- Query practice
+- Python/database learning
 
-## Tech Stack
+## Stack
 
-- Primary language: Python
-- Topics: database, python, sql
-
-## Repository Structure
-
-- Top-level folders: .idea, stage_1
-- Top-level files: No top-level files detected.
-
-## Status
-
-This is a learning/prototype repository kept public to show practice, experimentation, and growth.
+- SQL
+- Python
+- Databases
 
 ## Next Improvements
 
-- Add screenshots, sample outputs, or a short demo where relevant.
-- Expand setup instructions for local development.
-- Document the main learning outcome, architecture, and edge cases.
+- Add schema examples
+- Add query/result samples
+- Group exercises by concept
 
 ## Author
 
